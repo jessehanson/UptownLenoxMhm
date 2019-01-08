@@ -1,5 +1,13 @@
-# Functionality Requirements
+# Functional Requirements
 
-## Input financial data
-## View default models
-## Model Graphs
+## Core Functions
+### Web Application Interface
+
+### Company Financials Database
+
+### Display Data
+
+### Apply Qualitative & Quantitative Models
+
+## Additional Functions
+### Upload Structured Company Financial Data
