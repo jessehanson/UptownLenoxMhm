@@ -1,13 +1,10 @@
 # Functional Requirements
 
-## Core Functions
-### Web Application Interface
+### Core Functions
+1. Web Application Interface
+2. Company Financials Database
+3. Display Data
+4. Apply Qualitative & Quantitative Models
 
-### Company Financials Database
-
-### Display Data
-
-### Apply Qualitative & Quantitative Models
-
-## Additional Functions
-### Upload Structured Company Financial Data
+### Additional Functions
+1. Upload Structured Company Financial Data
